@@ -3,9 +3,14 @@
 
 
 Pre-requisites:
-```Install a browser that supports VLC webplugins (*suggested: Firefox 52.9.0 32-bit*)```
+
+```
+Install a browser that supports VLC webplugins (*suggested: Firefox 52.9.0 32-bit*)
+```
 
 Usage:
-```Write your rtsp uri(s) in my.js
-Open view.html```
+```
+Write your rtsp uri(s) in my.js
+Open view.html
+```
 
